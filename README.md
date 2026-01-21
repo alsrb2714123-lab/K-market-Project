@@ -10,5 +10,3 @@
 | **주요 기능** | - 회원가입 / 로그인<br> - 상품등록 / 상품목록 / 상품보기 / 장바구니 / 주문하기<br> - 고객센터 / 공지사항 / Q&A / FAQ |
 | **서비스 채널** | PC WEB |
 | **개발 환경** | - Java 17, Spring Framework(Spring Boot 3.x)<br> - Oracle / MySQL<br> - AWS Amazon Server<br> - Jenkins / Github Action CI/CD |
-| **작업 기간** | 2025.10.13 ~ 2025.10.22 (8일, 40시간) |
-| **작품 발표일** | 2025.10.22 14:00 |
